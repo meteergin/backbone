@@ -1,0 +1,40 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.erg01.backbone",
+      "nativeLanguage": "tr"
+    },
+    "jhipsterVersion": "6.8.0",
+    "applicationType": "monolith",
+    "baseName": "backbone",
+    "packageName": "com.erg01.backbone",
+    "packageFolder": "com/erg01/backbone",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "NGQyYmU0YTNmOGEwOGI0NTQ1M2VkOGNmMThmNTliYThhOGI1ZTA3MjAyMDg5NjU0MDUyZDdmZWFjODM0YjgzYTZmNDVmMjM0OWYxZDg5Y2EzZDM5MmU0ODA3MGFlZTJjM2VlMzQwODU2YTQxMGNlZDQxMmExODA2YTg5YTFlZDg=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "skipClient": true,
+    "creationTimestamp": 1587751989855,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "tr",
+    "languages": ["tr", "en"],
+    "blueprints": []
+  }
+}
